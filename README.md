@@ -1,4 +1,4 @@
-# 物体检测与人脸辨识
+# 物体检测与人脸检测
 
 > 原文地址 [物体检测与人脸识别](https://github.com/TommyZihao/zihaoopencv)
 
