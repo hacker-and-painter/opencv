@@ -209,7 +209,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
-
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190528200745.png)
 
 ## 增加摄像头实时微笑识别功能
 
@@ -263,7 +263,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
-![人脸+人眼+微笑检测]()
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190528200957.png)
 
 ![微笑检测](https://upload-images.jianshu.io/upload_images/13714448-b9f928a4e4bc6a5c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
