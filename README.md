@@ -23,18 +23,17 @@ Bilibili视频教程：[同济子豪兄-子豪兄opencv-python教程](https://sp
 简书专栏：[人工智能小技巧](https://www.jianshu.com/u/38cccf09b515)
 Github：[TommyZihao](https://github.com/TommyZihao)
 
-
 # 基础知识
 
 ## 啥是Harr特征
 
 Haar特征包含三种：边缘特征、线性特征、中心特征和对角线特征。每种分类器都从图片中提取出对应的特征。
 
-![Harr特征](https://upload-images.jianshu.io/upload_images/13714448-4f7cbda986ae8a33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190601203750.png)
 
 
 
-![搜索人脸上的指定特征](https://upload-images.jianshu.io/upload_images/13714448-f2b5b042d83a9635.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190601203906.png)
 
 比如上图中，横的黑道将人脸中较暗的双眼提取了出来，而竖的白道将人脸中较亮的鼻梁提取了出来。
 
@@ -123,7 +122,7 @@ cv2.destroyAllWindows()
 cv2.imwrite('output.jpg',img)
 ```
 
-![人脸识别](https://upload-images.jianshu.io/upload_images/13714448-8b51c1b390b8eff8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190601203944.png)
 
 ## 对单个图片进行人脸辨识和人眼检测
 
@@ -165,9 +164,9 @@ cv2.destroyAllWindows()
 cv2.imwrite('output.jpg',img)
 ```
 
-![人脸识别+人眼检测](https://upload-images.jianshu.io/upload_images/13714448-b0658f8312ec97ea.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190601204003.png)
 
-![名画-人脸检测](https://upload-images.jianshu.io/upload_images/13714448-8e24eef3b4c1f100.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190601204102.png)
 
 ## 调用电脑摄像头进行实时人脸辨识和人眼识别
 
@@ -265,11 +264,9 @@ cv2.destroyAllWindows()
 
 ![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190528200957.png)
 
-![微笑检测](https://upload-images.jianshu.io/upload_images/13714448-b9f928a4e4bc6a5c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190601204139.png)
 
-![微笑检测](https://upload-images.jianshu.io/upload_images/5201633-62406a163322f429.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
-
-
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190601204201.png)
 
 # 局限性
 
@@ -284,6 +281,3 @@ cv2.destroyAllWindows()
 [Face Detection using Haar Cascades](<https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection>)<br>
 
 [使用Haar Cascade 进行人脸识别](<https://blog.csdn.net/wutao1530663/article/details/78294349>)<br>
-
-
-
